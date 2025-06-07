@@ -1,0 +1,10 @@
+{
+  "name": "Tom",
+  "age": 20,
+  "is_student": true,
+  "scores": [85, 90, 88],
+  "address": {
+    "city": "Shanghai",
+    "zip": "200000"
+  }
+}
